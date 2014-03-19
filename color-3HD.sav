@@ -1,0 +1,151 @@
+EFISavedSettingsBegin
+WinNT
+color-3hd
+*EF_COPIES 1
+*EF_LAYOUT 1
+*EFDuplex False
+*EFSort Collate
+*InputSlot Tray1
+*EFStapler False
+*EFNUpOption 1UP
+*EF_COPIES 1
+*UserAuthDlg 0
+*EFNoAccountBW False
+*EFMailboxNum 0
+*EFMailboxName 
+*EFDestination Printer
+*Notes1 
+*EFPersUserID 
+*DeptPassword 
+*Instruct 
+*EFSecuredPasswd 
+*EFRaster False
+*EFPaperCatalog -1
+*EFCoverPaperCatalog -1
+*EFTabPosition 0
+*EFPrintSize SameAsPageSize
+*EFMediaType Any
+*InputSlot Tray1
+*EFTrayAlignment False
+*EFCover False
+*EFCoverTray ManualFeed
+*EFBkCover False
+*EFBkCoverTray ManualFeed
+*EFMediaInterlv False
+*EFMMInUse False
+*PageSize Letter
+CustomPageWidth 612.000000Letter
+CustomPageHeight 792.000000Letter
+CustomPageUnits Points
+CustomPrintWidth 612.000000Points
+CustomPrintHeight 792.000000Points
+CustomPrintUnits Points
+ActiveCustomCoverSizeW 0.000000Points
+CustomCoverWidthMRU1 612.000000Points
+CustomCoverWidthMRU2 612.000000Points
+CustomCoverWidthMRU3 612.000000Points
+CustomCoverWidthMRU4 612.000000Points
+CustomCoverWidthMRU5 612.000000Points
+CustomCoverMRUUnit1 Points
+CustomCoverMRUUnit2 Points
+CustomCoverMRUUnit3 Points
+CustomCoverMRUUnit4 Points
+CustomCoverMRUUnit5 Points
+CustomCoverWidth 612.000000Points
+ActiveCustomCoverSizeH 0.000000Points
+CustomCoverHeightMRU1 792.000000Points
+CustomCoverHeightMRU2 792.000000Points
+CustomCoverHeightMRU3 792.000000Points
+CustomCoverHeightMRU4 792.000000Points
+CustomCoverHeightMRU5 792.000000Points
+CustomCoverHeight 792.000000Points
+CustomCoverUnits Points
+CustomCoverSize SameAsPageSize
+CustomCover_MRUTYPE1 0
+CustomCover_MRUTYPE2 0
+CustomCover_MRUTYPE3 0
+CustomCover_MRUTYPE4 0
+CustomCover_MRUTYPE5 0
+CustomCover_PCMIDMRU1 0
+CustomCover_PCMIDMRU2 0
+CustomCover_PCMIDMRU3 0
+CustomCover_PCMIDMRU4 0
+CustomCover_PCMIDMRU5 0
+*EFScale 95
+*EF_PAPER_ORIENTATION Portrait
+*EF_MIRROR 1
+*EFSpineUnit MM
+*EFGutterUnit MM
+*EF_LAYOUT 1
+*EFAutoScaling False
+*EFDuplex False
+*EFEngRotate180 True
+*EFRIPBooklet False
+*EFBookCoverEnabled False
+*EFBookFrCover Side1
+*EFBookBkCover Blank
+*EFBookCoverSize 
+*EFBookCoverInType MultiPageNoSpine
+*EFBookletCreep False
+*EFBookletReduce True
+*EFBookAutoSpine True
+*EFBookCoverTray None
+*EFBookSpineFloatPoints 0.000000None
+*EFBookMarginFloatPoints 0.000000None
+*EFBookNumSheetPerSubset 1
+*EFBookCentering Bottom
+*EFNUpBoundingBox False
+*EFNUpOption 1UP
+*EFColorMode EFColorModeDEF
+*EFRGBOverride EFRGBOverrideDEF
+*EFColorRendDict EFColorRendDictDEF
+*EFRGBSep EFRGBSepDEF
+*EFSimulation EFSimulationDEF
+*EFSimSpeed EFSimSpeedDEF
+*EFOutProfile EFOutProfileDEF
+*EFSpotColors EFSpotColorsDEF
+*EFPureBlack EFPureBlackDEF
+*EFBlkOvpCtrl EFBlkOvpCtrlDEF
+*EFCompOverprint False
+*EFKOnlyGrayCMYK EFKOnlyGrayCMYKDEF
+*EFKOnlyGrayRGB EFKOnlyGrayRGBDEF
+*EFSubstColors False
+*EFTrapping EFTrappingDEF
+*EFSeparations False
+*EFCopierMode EFCopierModeDEF
+*EFColorLineCtrl EFColorLineCtrlDEF
+*EFImageSmooth False
+*EFBrightness 00.00
+*EFAdvSmooth EFAdvSmoothDEF
+*EFDensFineAdj EFDensFineAdjDEF
+*EFNoiseSource EFNoiseSourceDEF
+*EFTonerSave EFTonerSaveDEF
+*EFCompRatio EFCompRatioDEF
+*EFResolution EFResolutionDEF
+*EFOutputOrder Forward
+*EFGutter 0
+*EFShiftSort 1
+*EFPunchEdge None
+*EFSort Collate
+*EFOutputBin AutoSelect
+*EFStapler False
+*EFImageBackX 0
+*EFImageBackY 0
+*EFImageFrontX 0
+*EFImageFrontY 2880
+*EFImageAlign False
+*EFImageUnit Inches
+*EFImageFlag True
+*EFCreateMaster None
+*EFUseMaster None
+*EFPrintMaster EFPrintMasterDEF
+*EFPPTSlide False
+*EF_WATERMARK 0
+*EF_WATERMARK_FIRSTPAGEONLY 0
+*EFCopyNumStart 1
+*EFTrustMark False
+*EFCopyNumMode None
+EFIMixedMediaBegin
+
+EFIMixedMediaEnd
+EFISavedSettingsEnd
