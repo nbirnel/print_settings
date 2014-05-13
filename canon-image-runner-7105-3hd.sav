@@ -1,0 +1,100 @@
+EFISavedSettingsBegin
+WinNT
+3hd
+*EF_COPIES 1
+*EF_LAYOUT 1
+*EFSort Collate
+*EFStapler False
+*EFDuplex False
+*EFCopierBooklet False
+*InputSlot AutoSelect
+*EF_COPIES 1
+*UserAuthDlg 0
+*Notes2 
+*DeptPassword 
+*Instruct 
+*EFSecuredPasswd 
+*Notes1 
+*EFDestination Printer
+*EFMailboxName 
+*EFMailboxNum 0
+*EFRaster False
+*EFPaperCatalog -1
+*EFMMInUse False
+*EFMMInsType None
+*InputSlot AutoSelect
+*PageSize Letter
+*EFMediaType Any
+*EFTabPosition 0
+*EFTrayAlignment False
+*EFMediaInterlv False
+*EFCover False
+*EFCoverTray ManualFeed
+*EFBkCover False
+*EFBkCoverTray ManualFeed
+*EFScale 94
+*EF_PAPER_ORIENTATION Portrait
+*EF_MIRROR 1
+*EF_NEGATIVE_IMAGE 0
+*EF_LAYOUT 1
+*EFDuplex False
+*EFCopierBooklet False
+*EFUseCreepCorr Off
+*EFCorrWidth 0
+*EFEngRotate180 False
+*EFResolution 600x600dpi
+*EFScreen EFScreenDEF
+*EFRefine Type1
+*EFLineControl True
+*EFTonerSave False
+*EFDensity 5
+*EFImageBackX 0
+*EFImageBackY -5040
+*EFImageFrontX 0
+*EFImageFrontY 5040
+*EFGutter 0
+*EFShiftSort 1
+*EFOutputOrder Forward
+*EFFaceDown True
+*EFSort Collate
+*EFStapler False
+*EFPunch Left
+*EFOutputBin AutoSelect
+*EFFold False
+*EFTrimmer False
+*EFTrimPosition 20
+*EFImageAlign False
+*EFImageUnit Inches
+*EFImageFlag True
+*EFPBBodySize Letter
+*EFPBCoverPrintStyle Blank
+*EFPBBodyLength 257
+*EFPBBodyWidth 182
+*EFPBCoverSize Tabloid
+*EFPBCoverSource UTrayMPF4
+*EFPBCoverLength 257
+*EFPBCoverWidth 364
+*EFPBFinishSize Letter
+*EFPBTrimMode Off
+*EFPBFinishLength 203
+*EFPBFinishWidth 138
+*PBBodyImageV 0
+*PBCoverImageH 0
+*PBCoverImageV 0
+*PBTrimAngleBot 0
+*PBTrimAngleFore 0
+*PBTrimAngleTop 0
+*PBTrimLocationV 0
+*EFCreateMaster None
+*EFUseMaster None
+*EFPrintMaster EFPrintMasterDEF
+*EFPPTSlide False
+*EF_WATERMARK 0
+*EF_WATERMARK_FIRSTPAGEONLY 0
+*EFCopyNumMode None
+*EFCopyNumStart 1
+*EFTrustMark False
+EFIMixedMediaBegin
+
+EFIMixedMediaEnd
+EFISavedSettingsEnd
